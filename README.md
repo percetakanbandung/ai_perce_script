@@ -1,5 +1,6 @@
 # ai_perce_script
-Js script  that often use i my project
+
+Js script that often use i my project
 
 ### **How To Install**
 
@@ -13,9 +14,12 @@ Js script  that often use i my project
 
 3. Restart illustrator
 
-## **Print Merge**
+## **ReplaceText**
 
-Print Merge is a feature that allows you to create personalized documents by combining a base document with variable data from an external data source, such as a spreadsheet or a database. This is particularly useful for creating items like form letters, labels, certificates, or any other document that requires the same layout but different data for each recipient or item.
+ReplaceText is a script for replacing multiple text that you has been marking
+use `<i>` and that i could be replace by your text. Is useful for working
+on project that often repeateing something like copy + paste something like
+that.
 
 ## **Contant**
 
