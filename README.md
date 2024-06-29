@@ -1,3 +1,5 @@
+![ai_perce_script](img/ai_perce_script.jpg)
+
 # ai_perce_script
 
 Js script that often use i my project
