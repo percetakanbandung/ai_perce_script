@@ -1,4 +1,4 @@
-![ai_perce_script](img/ai_perce_script.jpg)
+![ai_perce_script](https://i.imgur.com/OOxgRoe.jpeg)
 
 # ai_perce_script
 
